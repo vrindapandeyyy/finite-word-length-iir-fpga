@@ -1,0 +1,16 @@
+# MNIST download
+data/
+# model weights and waveforms
+*.pt
+*.vcd
+# Quartus generated files
+db/
+incremental_db/
+output_files/
+simulation/
+*.qws
+*.sof
+# python and editor files
+__pycache__/
+.venv/
+*~
